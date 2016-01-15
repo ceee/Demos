@@ -1,0 +1,1 @@
+This repository contains demo projects for blog posts hosted on [frontendplay.com](http://frontendplay.com).
